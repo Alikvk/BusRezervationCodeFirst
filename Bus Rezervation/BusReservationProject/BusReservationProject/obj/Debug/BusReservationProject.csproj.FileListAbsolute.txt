@@ -1,0 +1,157 @@
+c:\users\ali kavak\documents\visual studio 2015\Projects\BusReservationProject\BusReservationProject\bin\Debug\BusReservationProject.exe.config
+c:\users\ali kavak\documents\visual studio 2015\Projects\BusReservationProject\BusReservationProject\bin\Debug\BusReservationProject.exe
+c:\users\ali kavak\documents\visual studio 2015\Projects\BusReservationProject\BusReservationProject\bin\Debug\BusReservationProject.pdb
+c:\users\ali kavak\documents\visual studio 2015\Projects\BusReservationProject\BusReservationProject\bin\Debug\EntityFramework.dll
+c:\users\ali kavak\documents\visual studio 2015\Projects\BusReservationProject\BusReservationProject\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ali kavak\documents\visual studio 2015\Projects\BusReservationProject\BusReservationProject\bin\Debug\EntityFramework.xml
+c:\users\ali kavak\documents\visual studio 2015\Projects\BusReservationProject\BusReservationProject\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ali kavak\documents\visual studio 2015\Projects\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.csprojResolveAssemblyReference.cache
+c:\users\ali kavak\documents\visual studio 2015\Projects\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.AdminPanel.resources
+c:\users\ali kavak\documents\visual studio 2015\Projects\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.AnaForm.resources
+c:\users\ali kavak\documents\visual studio 2015\Projects\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.ManageBussesForm.resources
+c:\users\ali kavak\documents\visual studio 2015\Projects\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.ManageDriversForm.resources
+c:\users\ali kavak\documents\visual studio 2015\Projects\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.PurchaseTicketForm.resources
+c:\users\ali kavak\documents\visual studio 2015\Projects\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Properties.Resources.resources
+c:\users\ali kavak\documents\visual studio 2015\Projects\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.csproj.GenerateResource.Cache
+c:\users\ali kavak\documents\visual studio 2015\Projects\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.exe
+c:\users\ali kavak\documents\visual studio 2015\Projects\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.pdb
+C:\Users\Ali KAVAK\Desktop\BusReservationProject\BusReservationProject\bin\Debug\BusReservationProject.exe.config
+C:\Users\Ali KAVAK\Desktop\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.exe
+C:\Users\Ali KAVAK\Desktop\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.pdb
+C:\Users\Ali KAVAK\Desktop\BusReservationProject\BusReservationProject\bin\Debug\BusReservationProject.exe
+C:\Users\Ali KAVAK\Desktop\BusReservationProject\BusReservationProject\bin\Debug\BusReservationProject.pdb
+C:\Users\Ali KAVAK\Desktop\BusReservationProject\BusReservationProject\bin\Debug\EntityFramework.dll
+C:\Users\Ali KAVAK\Desktop\BusReservationProject\BusReservationProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ali KAVAK\Desktop\BusReservationProject\BusReservationProject\bin\Debug\EntityFramework.xml
+C:\Users\Ali KAVAK\Desktop\BusReservationProject\BusReservationProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ali KAVAK\Desktop\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.csprojResolveAssemblyReference.cache
+C:\Users\Ali KAVAK\Desktop\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.AdminPanel.resources
+C:\Users\Ali KAVAK\Desktop\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.AnaForm.resources
+C:\Users\Ali KAVAK\Desktop\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.ManageBussesForm.resources
+C:\Users\Ali KAVAK\Desktop\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.ManageDriversForm.resources
+C:\Users\Ali KAVAK\Desktop\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.PurchaseTicketForm.resources
+C:\Users\Ali KAVAK\Desktop\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Properties.Resources.resources
+C:\Users\Ali KAVAK\Desktop\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.csproj.GenerateResource.Cache
+C:\Users\Ali KAVAK\Desktop\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Migrations.InitialCreate.resources
+C:\Users\Ali KAVAK\Desktop\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Migrations.CitiesTableDeletePlateColumn.resources
+C:\Users\Ali KAVAK\Desktop\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.PassengerInfoForm.resources
+C:\Users\Ali KAVAK\Desktop\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.ControlForm.resources
+C:\Users\Ali KAVAK\Desktop\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Migrations.UpdateTables.resources
+C:\Users\Ali KAVAK\Desktop\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.BusControlingForm.resources
+C:\Users\Ali KAVAK\Desktop\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Migrations.AddTripIdInTpInfoTable.resources
+C:\Users\Ali KAVAK\Desktop\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Migrations.AddDepartureTimeColumn.resources
+E:\BusReservationProject\BusReservationProject\bin\Debug\BusReservationProject.exe.config
+E:\BusReservationProject\BusReservationProject\bin\Debug\BusReservationProject.exe
+E:\BusReservationProject\BusReservationProject\bin\Debug\BusReservationProject.pdb
+E:\BusReservationProject\BusReservationProject\bin\Debug\EntityFramework.dll
+E:\BusReservationProject\BusReservationProject\bin\Debug\EntityFramework.SqlServer.dll
+E:\BusReservationProject\BusReservationProject\bin\Debug\EntityFramework.xml
+E:\BusReservationProject\BusReservationProject\bin\Debug\EntityFramework.SqlServer.xml
+E:\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.csprojAssemblyReference.cache
+E:\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.AdminPanel.resources
+E:\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.AnaForm.resources
+E:\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.BusControlingForm.resources
+E:\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.ControlForm.resources
+E:\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.ManageBussesForm.resources
+E:\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.ManageDriversForm.resources
+E:\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.PassengerInfoForm.resources
+E:\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.PurchaseTicketForm.resources
+E:\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Migrations.InitialCreate.resources
+E:\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Migrations.CitiesTableDeletePlateColumn.resources
+E:\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Migrations.UpdateTables.resources
+E:\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Migrations.AddTripIdInTpInfoTable.resources
+E:\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Migrations.AddDepartureTimeColumn.resources
+E:\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Properties.Resources.resources
+E:\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.csproj.GenerateResource.cache
+E:\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.csproj.CoreCompileInputs.cache
+E:\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.csproj.CopyComplete
+E:\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.exe
+E:\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.pdb
+C:\Users\Ali KAVAK\Desktop\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.ManageCities.resources
+E:\Android\BusReservationProject\BusReservationProject\bin\Debug\BusReservationProject.exe.config
+E:\Android\BusReservationProject\BusReservationProject\bin\Debug\BusReservationProject.exe
+E:\Android\BusReservationProject\BusReservationProject\bin\Debug\BusReservationProject.pdb
+E:\Android\BusReservationProject\BusReservationProject\bin\Debug\EntityFramework.dll
+E:\Android\BusReservationProject\BusReservationProject\bin\Debug\EntityFramework.SqlServer.dll
+E:\Android\BusReservationProject\BusReservationProject\bin\Debug\EntityFramework.xml
+E:\Android\BusReservationProject\BusReservationProject\bin\Debug\EntityFramework.SqlServer.xml
+E:\Android\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.csprojAssemblyReference.cache
+E:\Android\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.AdminPanel.resources
+E:\Android\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.AnaForm.resources
+E:\Android\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.BusControlingForm.resources
+E:\Android\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.ControlForm.resources
+E:\Android\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.ManageBussesForm.resources
+E:\Android\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.ManageCities.resources
+E:\Android\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.ManageDriversForm.resources
+E:\Android\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.PassengerInfoForm.resources
+E:\Android\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.PurchaseTicketForm.resources
+E:\Android\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Migrations.InitialCreate.resources
+E:\Android\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Migrations.CitiesTableDeletePlateColumn.resources
+E:\Android\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Migrations.UpdateTables.resources
+E:\Android\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Migrations.AddTripIdInTpInfoTable.resources
+E:\Android\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Migrations.AddDepartureTimeColumn.resources
+E:\Android\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Properties.Resources.resources
+E:\Android\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.csproj.GenerateResource.cache
+E:\Android\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.csproj.CoreCompileInputs.cache
+E:\Android\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.csproj.CopyComplete
+E:\Android\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.exe
+E:\Android\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.pdb
+E:\Android\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Migrations.AddDailyArchiveTable.resources
+C:\Users\iau\Desktop\Yeni klasör\BusReservationProject\BusReservationProject\bin\Debug\BusReservationProject.exe.config
+C:\Users\iau\Desktop\Yeni klasör\BusReservationProject\BusReservationProject\bin\Debug\BusReservationProject.exe
+C:\Users\iau\Desktop\Yeni klasör\BusReservationProject\BusReservationProject\bin\Debug\BusReservationProject.pdb
+C:\Users\iau\Desktop\Yeni klasör\BusReservationProject\BusReservationProject\bin\Debug\EntityFramework.dll
+C:\Users\iau\Desktop\Yeni klasör\BusReservationProject\BusReservationProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iau\Desktop\Yeni klasör\BusReservationProject\BusReservationProject\bin\Debug\EntityFramework.xml
+C:\Users\iau\Desktop\Yeni klasör\BusReservationProject\BusReservationProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iau\Desktop\Yeni klasör\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.csprojAssemblyReference.cache
+C:\Users\iau\Desktop\Yeni klasör\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.AdminPanel.resources
+C:\Users\iau\Desktop\Yeni klasör\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.AnaForm.resources
+C:\Users\iau\Desktop\Yeni klasör\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.BusControlingForm.resources
+C:\Users\iau\Desktop\Yeni klasör\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.ControlForm.resources
+C:\Users\iau\Desktop\Yeni klasör\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.ManageBussesForm.resources
+C:\Users\iau\Desktop\Yeni klasör\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.ManageCities.resources
+C:\Users\iau\Desktop\Yeni klasör\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.ManageDriversForm.resources
+C:\Users\iau\Desktop\Yeni klasör\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.PassengerInfoForm.resources
+C:\Users\iau\Desktop\Yeni klasör\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.PurchaseTicketForm.resources
+C:\Users\iau\Desktop\Yeni klasör\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Migrations.InitialCreate.resources
+C:\Users\iau\Desktop\Yeni klasör\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Migrations.CitiesTableDeletePlateColumn.resources
+C:\Users\iau\Desktop\Yeni klasör\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Migrations.UpdateTables.resources
+C:\Users\iau\Desktop\Yeni klasör\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Migrations.AddTripIdInTpInfoTable.resources
+C:\Users\iau\Desktop\Yeni klasör\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Migrations.AddDepartureTimeColumn.resources
+C:\Users\iau\Desktop\Yeni klasör\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Migrations.AddDailyArchiveTable.resources
+C:\Users\iau\Desktop\Yeni klasör\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Properties.Resources.resources
+C:\Users\iau\Desktop\Yeni klasör\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.csproj.GenerateResource.cache
+C:\Users\iau\Desktop\Yeni klasör\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.csproj.CoreCompileInputs.cache
+C:\Users\iau\Desktop\Yeni klasör\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.csproj.CopyComplete
+C:\Users\iau\Desktop\Yeni klasör\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.exe
+C:\Users\iau\Desktop\Yeni klasör\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.pdb
+C:\Users\iau\Desktop\Otobüs Otomasyonu - Ali KAVAK\BusReservationProject\BusReservationProject\bin\Debug\BusReservationProject.exe.config
+C:\Users\iau\Desktop\Otobüs Otomasyonu - Ali KAVAK\BusReservationProject\BusReservationProject\bin\Debug\BusReservationProject.exe
+C:\Users\iau\Desktop\Otobüs Otomasyonu - Ali KAVAK\BusReservationProject\BusReservationProject\bin\Debug\BusReservationProject.pdb
+C:\Users\iau\Desktop\Otobüs Otomasyonu - Ali KAVAK\BusReservationProject\BusReservationProject\bin\Debug\EntityFramework.dll
+C:\Users\iau\Desktop\Otobüs Otomasyonu - Ali KAVAK\BusReservationProject\BusReservationProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iau\Desktop\Otobüs Otomasyonu - Ali KAVAK\BusReservationProject\BusReservationProject\bin\Debug\EntityFramework.xml
+C:\Users\iau\Desktop\Otobüs Otomasyonu - Ali KAVAK\BusReservationProject\BusReservationProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iau\Desktop\Otobüs Otomasyonu - Ali KAVAK\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.csprojAssemblyReference.cache
+C:\Users\iau\Desktop\Otobüs Otomasyonu - Ali KAVAK\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.AdminPanel.resources
+C:\Users\iau\Desktop\Otobüs Otomasyonu - Ali KAVAK\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.AnaForm.resources
+C:\Users\iau\Desktop\Otobüs Otomasyonu - Ali KAVAK\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.BusControlingForm.resources
+C:\Users\iau\Desktop\Otobüs Otomasyonu - Ali KAVAK\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.ControlForm.resources
+C:\Users\iau\Desktop\Otobüs Otomasyonu - Ali KAVAK\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.ManageBussesForm.resources
+C:\Users\iau\Desktop\Otobüs Otomasyonu - Ali KAVAK\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.ManageCities.resources
+C:\Users\iau\Desktop\Otobüs Otomasyonu - Ali KAVAK\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.ManageDriversForm.resources
+C:\Users\iau\Desktop\Otobüs Otomasyonu - Ali KAVAK\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.PassengerInfoForm.resources
+C:\Users\iau\Desktop\Otobüs Otomasyonu - Ali KAVAK\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Forms.PurchaseTicketForm.resources
+C:\Users\iau\Desktop\Otobüs Otomasyonu - Ali KAVAK\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Migrations.InitialCreate.resources
+C:\Users\iau\Desktop\Otobüs Otomasyonu - Ali KAVAK\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Migrations.CitiesTableDeletePlateColumn.resources
+C:\Users\iau\Desktop\Otobüs Otomasyonu - Ali KAVAK\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Migrations.UpdateTables.resources
+C:\Users\iau\Desktop\Otobüs Otomasyonu - Ali KAVAK\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Migrations.AddTripIdInTpInfoTable.resources
+C:\Users\iau\Desktop\Otobüs Otomasyonu - Ali KAVAK\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Migrations.AddDepartureTimeColumn.resources
+C:\Users\iau\Desktop\Otobüs Otomasyonu - Ali KAVAK\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Migrations.AddDailyArchiveTable.resources
+C:\Users\iau\Desktop\Otobüs Otomasyonu - Ali KAVAK\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.Properties.Resources.resources
+C:\Users\iau\Desktop\Otobüs Otomasyonu - Ali KAVAK\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.csproj.GenerateResource.cache
+C:\Users\iau\Desktop\Otobüs Otomasyonu - Ali KAVAK\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.csproj.CoreCompileInputs.cache
+C:\Users\iau\Desktop\Otobüs Otomasyonu - Ali KAVAK\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.csproj.CopyComplete
+C:\Users\iau\Desktop\Otobüs Otomasyonu - Ali KAVAK\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.exe
+C:\Users\iau\Desktop\Otobüs Otomasyonu - Ali KAVAK\BusReservationProject\BusReservationProject\obj\Debug\BusReservationProject.pdb

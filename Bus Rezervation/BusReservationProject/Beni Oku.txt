@@ -1,0 +1,9 @@
+1) Projeye "Proje Raporu - Ali KAVAK.doc" dosyasýný okuyarak baþlayýnýz.
+2) Önce bir kere projeyi çalýþtýrarak veri tabanýnýn oluþmasýný saðlayýnýz.
+3) Veri tabanýnýz oluþtuktan sonra, klasörde bulunan "iller.sql" dosyasýný çalýþtýrýnýz.
+4) Projemiz üzerinde istediðiniz senaryolar ile deneme yapabilirsiniz.
+5) Yorumlarýnýzý sabýrsýzlýkla bekliyorum.
+
+Teþekkür ederim.
+
+Ali KAVAK
